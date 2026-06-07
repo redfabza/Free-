@@ -913,4 +913,4 @@ UIS.InputChanged:Connect(function(input, gpe)
     end
 end)
 
-print("✅ FreeCamPro v3.0 — ใช้เทคนิค Global + กระโดดเลเยอร์ + CoreGui เรียบร้อย ทะลุจอแน่นอน!")
+print("✅ FreeCamPro v3.0 byEarthนะจ๊ะยังไม่ปล่อย")
